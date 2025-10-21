@@ -1,4 +1,4 @@
-# De-Datos-a-Predicciones-Energ-a-Solar-Inteligente
+# De-Datos-a-Predicciones-Energia-Solar-Inteligente
 
 ¡Listo! Acabo de entregar mi desafío, ¡espero tus comentarios pronto! En caso de no poder acceder a la pre-entrega por el link público de GIT-HUB, dejo debajo una alternativa por Google Drive: 
 
